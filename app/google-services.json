@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "557929047869",
+    "firebase_url": "https://homecare-a929e.firebaseio.com",
+    "project_id": "homecare-a929e",
+    "storage_bucket": "homecare-a929e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557929047869:android:aaf3300205f19355",
+        "android_client_info": {
+          "package_name": "com.winnie.homebasecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557929047869-n3gl913v6kf0r8p413ubrhq1cf885dkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winnie.homebasecare",
+            "certificate_hash": "1fb33f4bc313c33007d5680116ee575f4d731427"
+          }
+        },
+        {
+          "client_id": "557929047869-ldk21a2im39095h8vp09oi66bqgs88qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi098fF5h8nsXuebpi3bO9o0NoVWlbceQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557929047869-ldk21a2im39095h8vp09oi66bqgs88qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557929047869:android:e722e7049bd77419",
+        "android_client_info": {
+          "package_name": "net.simplifiedcoding.ghostapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557929047869-uivmhb6an0qvq3chuedkkg7emc88oipq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.simplifiedcoding.ghostapp",
+            "certificate_hash": "1fb33f4bc313c33007d5680116ee575f4d731427"
+          }
+        },
+        {
+          "client_id": "557929047869-ldk21a2im39095h8vp09oi66bqgs88qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi098fF5h8nsXuebpi3bO9o0NoVWlbceQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557929047869-ldk21a2im39095h8vp09oi66bqgs88qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
